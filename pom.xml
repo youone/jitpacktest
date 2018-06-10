@@ -7,6 +7,6 @@
     <groupId>se.you1</groupId>
     <artifactId>jitpack-test</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>jar</packaging>
 
 </project>
